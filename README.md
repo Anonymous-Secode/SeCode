@@ -41,3 +41,20 @@ The SecCode framework operates in an interactive loop with the following core co
 ![SecCode Architecture](./framework_seccode1.jpg)
 
 ---
+## Results
+
+<h3 align="center">Comparison of Results</h3>
+
+<table>
+  <tr>
+    <th>Experimental results for the LLM with/without EP after 5 interactive iterations based on LEval Dataset</th>
+    <th>Experimental results for the number of vulnerabilities identified as a relationship with the number of conducted interactive iterations on LEval and SecEval datasets. I0: means the original generated code; I1: the first iteration; etc.</th>
+    <th>Comparison of the proposed SecCode with the baselines of CodeSafer and PropSec for the two LLMs (left: CodeLlama-7B, right: Mistral-7B). SecCode yields outstanding performance.</th>
+  </tr>
+  <tr>
+    <td><img src="./images/Fig1.png" width="250"/></td>
+    <td><img src="./images/RQ1.png" width="250"/></td>
+    <td><img src="./images/SOTA.png" width="250"/></td>
+  </tr>
+</table>
+
