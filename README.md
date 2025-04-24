@@ -38,10 +38,6 @@ The SecCode framework operates in an interactive loop with the following core co
 
 ## Architecture Overview
 
-> Replace `image.png` with your actual architecture diagram or system workflow.
-
-![SecCode Architecture](./image.png)
-
-To include your own diagram, add your image to the repository folder and replace the filename above (`image.png`) with your actual file.
+![SecCode Architecture](./framework_seccode1.jpg)
 
 ---
